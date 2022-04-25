@@ -1,0 +1,53 @@
+body {   
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+    text-decoration: none;
+}
+
+/* .navbar{
+    padding-left: 21em;
+    padding-right: 21em;
+} */
+.nav-marca{
+    font-family: 'Lobster', cursive;
+    color: #ffffff;
+    font-size: 30pt;
+}
+
+.titulo_main{
+    font-size: 30pt;
+}
+
+.boton_main{
+    border: 1px solid #c4c4c4;
+}
+
+.letra_roja{
+    color: #ff0000;
+}
+.recetas{
+    color: #373A3C;
+    /* border-top: 1px solid #c4c4c4; */
+}
+
+.foto{
+    width: 24%;
+}
+
+.card{
+    padding: 0;
+    margin: 0;
+}
+
+.card-text{
+    font-size: 15px;
+}
+
+/* .suscripcion{
+    height: 30em;
+} */
+.marca{
+    font-family: "Lobster", cursiva;
+    color: #ffffff;
+}
+
